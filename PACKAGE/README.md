@@ -18,9 +18,6 @@ sufficient amount of results for the thesis.
 > * **datagenerator** contains the code for generating datasets of both 1D and 2D 
         problems.
 ***
-> Directory **res** contains subfolders for each produced result together with an 
-	explainatory README.
-***
 > There are in total 6 Jupyter Notebook, namely
 > * **create_reference_2dim**: for creating reference solutions of 2D experiments.
 > * **create_results_1dim**: for creating results of 1D experiments.

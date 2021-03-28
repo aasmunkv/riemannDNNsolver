@@ -3,7 +3,7 @@ This directory contains the final package structure of both 1D and 2D solvers, a
 the testing of new loss function for 1 dimensional case. Otherwise, this folder contains 
 different notebooks for different purposes, all of which has the main goal of producing 
 sufficient amount of results for the thesis.
-
+***
 > Directory **riemannsolver** contains the package of which to use for producing results. 
 	The package consist of multiple subpackages for each part of the implementation.
 > * **dnn1d** contains the DNN based implementation for one-dimensional Riemann 
@@ -17,8 +17,10 @@ sufficient amount of results for the thesis.
 	problems.
 > * **datagenerator** contains the code for generating datasets of both 1D and 2D 
         problems.
+***
 > Directory **res** contains subfolders for each produced result together with an 
 	explainatory README.
+***
 > There are in total 6 Jupyter Notebook, namely
 > * **create_reference_2dim**: for creating reference solutions of 2D experiments.
 > * **create_results_1dim**: for creating results of 1D experiments.
